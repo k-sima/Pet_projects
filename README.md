@@ -1,4 +1,3 @@
-# Pet_projects  
 ## Проекты DE
 - ETL погода в S3
 
